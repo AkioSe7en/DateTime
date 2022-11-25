@@ -1,0 +1,15 @@
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Свойства класса треш\Свойства класса треш\bin\Debug\net6.0\Свойства класса треш.exe
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Свойства класса треш\Свойства класса треш\bin\Debug\net6.0\Свойства класса треш.deps.json
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Свойства класса треш\Свойства класса треш\bin\Debug\net6.0\Свойства класса треш.runtimeconfig.json
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Свойства класса треш\Свойства класса треш\bin\Debug\net6.0\Свойства класса треш.dll
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Свойства класса треш\Свойства класса треш\bin\Debug\net6.0\Свойства класса треш.pdb
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Свойства класса треш\Свойства класса треш\obj\Debug\net6.0\Свойства класса треш.csproj.AssemblyReference.cache
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Свойства класса треш\Свойства класса треш\obj\Debug\net6.0\Свойства класса треш.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Свойства класса треш\Свойства класса треш\obj\Debug\net6.0\Свойства класса треш.AssemblyInfoInputs.cache
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Свойства класса треш\Свойства класса треш\obj\Debug\net6.0\Свойства класса треш.AssemblyInfo.cs
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Свойства класса треш\Свойства класса треш\obj\Debug\net6.0\Свойства класса треш.csproj.CoreCompileInputs.cache
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Свойства класса треш\Свойства класса треш\obj\Debug\net6.0\Свойства класса треш.dll
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Свойства класса треш\Свойства класса треш\obj\Debug\net6.0\refint\Свойства класса треш.dll
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Свойства класса треш\Свойства класса треш\obj\Debug\net6.0\Свойства класса треш.pdb
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Свойства класса треш\Свойства класса треш\obj\Debug\net6.0\Свойства класса треш.genruntimeconfig.cache
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Свойства класса треш\Свойства класса треш\obj\Debug\net6.0\ref\Свойства класса треш.dll

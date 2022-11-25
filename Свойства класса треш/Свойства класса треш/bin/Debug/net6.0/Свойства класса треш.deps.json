@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Свойства класса треш/1.0.0": {
+        "runtime": {
+          "Свойства класса треш.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Свойства класса треш/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
